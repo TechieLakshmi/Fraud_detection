@@ -6,15 +6,15 @@ This repository contains a modular and production-structured fraud detection pip
 
 ## 🧠 Key Features
 
-* ✔ **Synthetic Fraud Dataset Generator** (no external dataset needed)
-* ✔ **Multiple Modeling Approaches**:
+* **Synthetic Fraud Dataset Generator** (no external dataset needed)
+* **Multiple Modeling Approaches**:
 
 * RandomForestClassifier (supervised)
 * IsolationForest (unsupervised anomaly detection)
-  * ✔ **Feature Engineering + Preprocessing Pipeline** using ColumnTransformer
-  * ✔ **REST API for predictions** using Flask
-  * ✔ **Docker-ready deployment** with Dockerfile + docker-compose.yml
-  * ✔ Clean, modular, interview-ready code base
+  * **Feature Engineering + Preprocessing Pipeline** using ColumnTransformer
+  * **REST API for predictions** using Flask
+  * **Docker-ready deployment** with Dockerfile + docker-compose.yml
+  * Clean, modular, interview-ready code base
 
 ---
 
